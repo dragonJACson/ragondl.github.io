@@ -1,0 +1,15 @@
+{
+  "name": "RagonDL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RagonDL/ragondl.github.io.git",
+  "author": "Luke Yue <lukedyue@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

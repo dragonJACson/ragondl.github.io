@@ -1,0 +1,4 @@
+node_modules
+dist
+.vuepress/dist
+yarn-error.log
